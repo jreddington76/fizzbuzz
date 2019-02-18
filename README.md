@@ -1,8 +1,6 @@
 # fizzbuzz
 A  .NET Core TDD version of the classic interview question
 
-Fizzbuzz version number: c52851081674597ecf5d5a4ed3bf750b39e3f8e5
-
 
 Built on .NET Core:
   SDK version 2.2.102
